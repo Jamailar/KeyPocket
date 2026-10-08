@@ -1,5 +1,7 @@
 # KeyPocket
 
+![KeyPocket concept: save API configuration in Developer view and access it through CLI or MCP](docs/assets/readme-hero.jpg)
+
 **A small native macOS app for API URLs, API keys, and environment variables — built for desktop AI agents.**
 
 [简体中文](README.md) · [MIT License](LICENSE) · macOS 14+ · Apple Silicon

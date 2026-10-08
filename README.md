@@ -1,5 +1,7 @@
 # KeyPocket
 
+![KeyPocket 产品示意：在 Developer 视图保存 API 配置，通过 CLI 与 MCP 提供给 Agent](docs/assets/readme-hero.jpg)
+
 **一个小窗口，管理 API URL、API Key 和环境变量，让桌面 AI Agent 按需读取。**
 
 [English](README.en.md) · [MIT License](LICENSE) · macOS 14+ · Apple Silicon
